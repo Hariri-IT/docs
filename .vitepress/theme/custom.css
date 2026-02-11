@@ -1,0 +1,11 @@
+.VPNavBarTitle img {
+  height: auto !important;
+  width: 125px !important;
+}
+
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-c-brand-1: #2D7A4F;
+  --vp-c-brand-2: #1F2F26;
+  --vp-c-brand-3: #2D7A4F;
+}
