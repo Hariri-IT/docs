@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "hdoc:dev": "vitepress dev",
-    "hdoc:build": "vitepress build",
-    "hdoc:preview": "vitepress preview"
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
   }
 }
