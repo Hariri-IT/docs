@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Hariri documentation"
+  name: "Hariri IT documentation"
   text: "Hariri REST API's full documentation"
   tagline: My great project tagline
   actions:
